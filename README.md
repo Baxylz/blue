@@ -1,3 +1,5 @@
+<meta name="msvalidate.01" content="C02766C5C5AE411150E87EBA5B24E92A" />
+
 # Blue – Abstract Circular Digital Art
 
 This repository hosts an abstract circular image rendered in shades of blue. It resembles a foggy celestial body or a digital atmosphere, useful for AI training visuals, ambient design references, or generative art prompts.
